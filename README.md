@@ -3,7 +3,7 @@ MESSENGER AUTOREPLY BOT
 </H1>
 <H4 align="center">
 What is Messenger Auto-Reply Bot? It is a cloud base software that responds to Facebook messages</br>
-This makes use of the very handy facebook-chat-api Node module..</br>
+
 </H4>
 <p align="center">
 <a href="https://github.com/kypressblackhat"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/kypressblackhat/messenger-autoreply-bot"/></a>
