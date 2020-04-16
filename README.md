@@ -31,12 +31,12 @@ What is Messenger Auto-Reply Bot? It is a cloud base software that responds to F
 
 | Name                               | Status             | Information                                        |
 | ---------------------------------- | ------------------ | -------------------------------------------------- |
-| Customized Reply                   | :white_check_mark: | make your own replies                              |
+| Customized Reply                   | :white_check_mark: | Make your own replies                              |
 | Customized Receiver                | :white_check_mark: | Individual, Groups/Marketplace or Both             |
 | Specific Contacts                  | :white_check_mark: | Choose who can sent your autoreply messages        |
 | Ignored Contacts                   | :white_check_mark: | Ignored person sent your autoreply messages        |
 | Specific Times                     | :white_check_mark: | Set the reply times per day                        |
 | Received Message                   | :white_check_mark: | Exact match, Similarity match, Pattern matching    |
-| Multiple Replies                   | :white_check_mark: | make multiple replies (random is available)        |
+| Multiple Replies                   | :white_check_mark: | Make multiple replies (random is available)        |
 | Connect to web server              | :white_check_mark: | Your web server will received a HTTP POST request  |
 | Replies Delay                      | :white_check_mark: | Set delay replies after receiving a messages       |
