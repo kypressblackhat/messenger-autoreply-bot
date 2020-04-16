@@ -27,19 +27,16 @@ This makes use of the very handy facebook-chat-api Node module..</br>
 
 ![What is Messenger Auto-Reply Bot? It is a cloud base software that responds to Facebook messages](https://user-images.githubusercontent.com/21362676/79481057-93da2c80-8041-11ea-8534-2b4bc61c349d.png)
 
+## Features in tools
 
-*Messaging /stop in a thread disables the bot, /resume removes that thread from the whitelist. Group chats are automatically whitelisted.
-
-*Customized Reply Message.
-
-*Customized Receiver Individual | Groups/Marketplace | Both
-
-*Specific Contacts
-
-*Ignored Contacts
-
-*Specific times
-
-*Multiple Replies (Random is available)
-
-*Can connect to your own web server
+| Name                               | Status             | Information                                        |
+| ---------------------------------- | ------------------ | -------------------------------------------------- |
+| Customized Reply                   | :white_check_mark: | make your own replies                              |
+| Customized Receiver                | :white_check_mark: | Individual, Groups/Marketplace or Both             |
+| Specific Contacts                  | :white_check_mark: | Choose who can sent your autoreply messages        |
+| Ignored Contacts                   | :white_check_mark: | Ignored person sent your autoreply messages        |
+| Specific Times                     | :white_check_mark: | Set the reply times per day                        |
+| Received Message                   | :white_check_mark: | Exact match, Similarity match, Pattern matching    |
+| Multiple Replies                   | :white_check_mark: | make multiple replies (random is available)        |
+| Connect to web server              | :white_check_mark: | Your web server will received a HTTP POST request  |
+| Replies Delay                      | :white_check_mark: | Set delay replies after receiving a messages       |
