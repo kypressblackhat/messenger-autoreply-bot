@@ -1,5 +1,6 @@
 # messenger-autoreply-bot
-What is Messenger Auto-Reply Bot? It is a cloud base software that responds to Facebook messages
+![What is Messenger Auto-Reply Bot? It is a cloud base software that responds to Facebook messages]
+
 
 *Messaging /stop in a thread disables the bot, /resume removes that thread from the whitelist. Group chats are automatically whitelisted.
 
