@@ -13,8 +13,8 @@ What is Messenger Auto-Reply Bot? It is a cloud base software that responds to F
 <a href="https://github.comkypressblackhat"><img alt="TopLanguage" src="https://img.shields.io/github/languages/top/kypressblackhat/messenger-autoreply-bot"/></a>
 </br>
 <a href="https://github.com/kypressblackhat"><img alt="Search" src="https://img.shields.io/github/search/warifp/kypressblackhat/messenger-autoreply-bot"/></a>
-<a href="https://github.com/kypressblackhat"><img alt="Repository Size" src="https://img.shields.io/github/repo-size/kypressblackhat/messenger-autoreply-bot"/></a>
-<a href="https://github.com/kypressblackhat"><img alt="Repository Size" src="https://img.shields.io/github/forkskypressblackhat/messenger-autoreply-bot"/></a>
+<a href="https://github.com/kypressblackhat"><img alt="Repository Size" 
+src="https://img.shields.io/github/repo-size/kypressblackhat/messenger-autoreply-bot"/></a>
 <a href="https://github.com/kypressblackhat"><img alt="Repository Size" src="https://img.shields.io/github/stars/kypressblackhat/messenger-autoreply-bot"/></a>
 </p>
 
